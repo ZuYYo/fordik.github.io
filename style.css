@@ -1,0 +1,15 @@
+body {
+  background-color: white ;
+}
+
+#zag {
+background-color: lime;
+color: black;
+border: 3px solid green;
+border-radius: 15px;
+box-shadow: 1.5px 1.5px 5px black;
+}
+
+#ula {
+  margin-top: 100px;
+}
